@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shadirvan1/leet-codes/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shadirvan1/leet-codes/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shadirvan1/leet-codes/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
