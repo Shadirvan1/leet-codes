@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shadirvan1/leet-codes/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [3099-harshad-number](https://github.com/Shadirvan1/leet-codes/tree/master/3099-harshad-number) |
 <!---LeetCode Topics End-->
