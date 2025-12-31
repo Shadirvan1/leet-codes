@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Shadirvan1/leet-codes/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shadirvan1/leet-codes/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Shadirvan1/leet-codes/tree/master/0217-contains-duplicate) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shadirvan1/leet-codes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
 |  |
@@ -20,9 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shadirvan1/leet-codes/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Shadirvan1/leet-codes/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Shadirvan1/leet-codes/tree/master/0066-plus-one) |
 | [3099-harshad-number](https://github.com/Shadirvan1/leet-codes/tree/master/3099-harshad-number) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Shadirvan1/leet-codes/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
