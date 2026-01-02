@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Shadirvan1/leet-codes/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Shadirvan1/leet-codes/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Shadirvan1/leet-codes/tree/master/0344-reverse-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shadirvan1/leet-codes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Shadirvan1/leet-codes/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Shadirvan1/leet-codes/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Shadirvan1/leet-codes/tree/master/0258-add-digits) |
 | [3099-harshad-number](https://github.com/Shadirvan1/leet-codes/tree/master/3099-harshad-number) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Shadirvan1/leet-codes/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Shadirvan1/leet-codes/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Shadirvan1/leet-codes/tree/master/1929-concatenation-of-array) |
 ## Number Theory
