@@ -1,7 +1,7 @@
 class Solution(object):
     def sortColors(self, nums):
-        num = nums.sort()
-        return num
+        return nums.sort()
+    
 
         """
         :type nums: List[int]
