@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shadirvan1/leet-codes/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Shadirvan1/leet-codes/tree/master/0258-add-digits) |
 | [3099-harshad-number](https://github.com/Shadirvan1/leet-codes/tree/master/3099-harshad-number) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Shadirvan1/leet-codes/tree/master/3783-mirror-distance-of-an-integer) |
 ## Hash Table
 |  |
 | ------- |
