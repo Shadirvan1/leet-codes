@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shadirvan1/leet-codes/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Shadirvan1/leet-codes/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shadirvan1/leet-codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/Shadirvan1/leet-codes/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shadirvan1/leet-codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/Shadirvan1/leet-codes/tree/master/0217-contains-duplicate) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shadirvan1/leet-codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Shadirvan1/leet-codes/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Shadirvan1/leet-codes/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
