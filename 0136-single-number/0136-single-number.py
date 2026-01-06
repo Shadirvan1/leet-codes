@@ -5,6 +5,8 @@ class Solution(object):
             f = nums.count(i)
             if f == 1:
                 return i
+            
+
 
 
 
