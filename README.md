@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shadirvan1/leet-codes/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Shadirvan1/leet-codes/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Shadirvan1/leet-codes/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Shadirvan1/leet-codes/tree/master/0709-to-lower-case) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Shadirvan1/leet-codes/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shadirvan1/leet-codes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Shadirvan1/leet-codes/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Shadirvan1/leet-codes/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/Shadirvan1/leet-codes/tree/master/0389-find-the-difference) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Shadirvan1/leet-codes/tree/master/1451-rearrange-words-in-a-sentence) |
 ## Math
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shadirvan1/leet-codes/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/Shadirvan1/leet-codes/tree/master/0389-find-the-difference) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shadirvan1/leet-codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Binary Search
 |  |
@@ -86,4 +89,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Shadirvan1/leet-codes/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shadirvan1/leet-codes/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/Shadirvan1/leet-codes/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
