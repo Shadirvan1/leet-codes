@@ -5,8 +5,8 @@ class Solution(object):
         lst= s1+s2
         ll = []
         for i in lst:
-            da = lst.count(i)
-            if da ==1:
+            
+            if lst.count(i) ==1:
                 ll.append(i)
         return ll
             
