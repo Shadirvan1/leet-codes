@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Shadirvan1/leet-codes/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Shadirvan1/leet-codes/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Shadirvan1/leet-codes/tree/master/0258-add-digits) |
+| [0371-sum-of-two-integers](https://github.com/Shadirvan1/leet-codes/tree/master/0371-sum-of-two-integers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Shadirvan1/leet-codes/tree/master/2119-a-number-after-a-double-reversal) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shadirvan1/leet-codes/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/Shadirvan1/leet-codes/tree/master/3099-harshad-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Shadirvan1/leet-codes/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Shadirvan1/leet-codes/tree/master/0137-single-number-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Shadirvan1/leet-codes/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/Shadirvan1/leet-codes/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Shadirvan1/leet-codes/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
