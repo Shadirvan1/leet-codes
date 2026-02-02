@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shadirvan1/leet-codes/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Shadirvan1/leet-codes/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shadirvan1/leet-codes/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/Shadirvan1/leet-codes/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Shadirvan1/leet-codes/tree/master/0771-jewels-and-stones) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shadirvan1/leet-codes/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shadirvan1/leet-codes/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Shadirvan1/leet-codes/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shadirvan1/leet-codes/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -105,5 +107,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shadirvan1/leet-codes/tree/master/0884-uncommon-words-from-two-sentences) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
