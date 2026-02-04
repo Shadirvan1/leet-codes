@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shadirvan1/leet-codes/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shadirvan1/leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shadirvan1/leet-codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Shadirvan1/leet-codes/tree/master/0989-add-to-array-form-of-integer) |
 | [1480-running-sum-of-1d-array](https://github.com/Shadirvan1/leet-codes/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shadirvan1/leet-codes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/Shadirvan1/leet-codes/tree/master/1929-concatenation-of-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Shadirvan1/leet-codes/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shadirvan1/leet-codes/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Shadirvan1/leet-codes/tree/master/0371-sum-of-two-integers) |
+| [0989-add-to-array-form-of-integer](https://github.com/Shadirvan1/leet-codes/tree/master/0989-add-to-array-form-of-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Shadirvan1/leet-codes/tree/master/2119-a-number-after-a-double-reversal) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shadirvan1/leet-codes/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/Shadirvan1/leet-codes/tree/master/3099-harshad-number) |
