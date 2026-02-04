@@ -9,9 +9,7 @@ class Solution(object):
         for i in num:
             l += str(i)
         d =str(int(l) + k)
-        lst = []
-        for i in d:
-            lst.append(int(i))
+        lst = [int(i) for i in d]
         return lst
             
 
