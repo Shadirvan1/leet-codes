@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Shadirvan1/leet-codes/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shadirvan1/leet-codes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Shadirvan1/leet-codes/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2540-minimum-common-value](https://github.com/Shadirvan1/leet-codes/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Shadirvan1/leet-codes/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shadirvan1/leet-codes/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Shadirvan1/leet-codes/tree/master/2942-find-words-containing-character) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Shadirvan1/leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shadirvan1/leet-codes/tree/master/0344-reverse-string) |
+| [2540-minimum-common-value](https://github.com/Shadirvan1/leet-codes/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Shadirvan1/leet-codes/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shadirvan1/leet-codes/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shadirvan1/leet-codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [2540-minimum-common-value](https://github.com/Shadirvan1/leet-codes/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shadirvan1/leet-codes/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shadirvan1/leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shadirvan1/leet-codes/tree/master/0374-guess-number-higher-or-lower) |
+| [2540-minimum-common-value](https://github.com/Shadirvan1/leet-codes/tree/master/2540-minimum-common-value) |
 ## Interactive
 |  |
 | ------- |
