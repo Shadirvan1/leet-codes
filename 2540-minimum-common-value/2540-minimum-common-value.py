@@ -1,0 +1,21 @@
+class Solution(object):
+    def getCommon(self, nums1, nums2):
+        """
+        :type nums1: List[int]
+        :type nums2: List[int]
+        :rtype: int
+        """
+        d = set(nums1)
+        dd = set(nums2)
+        l = list(d) + list(dd)
+
+        # for i in l:
+        #     if l.count(i) >= 2:
+        #         cc.append(i)
+        res = d & dd
+        print(list(res))
+        if len(res) == 0:
+            return -1
+        return min(list(res))
+        
+
