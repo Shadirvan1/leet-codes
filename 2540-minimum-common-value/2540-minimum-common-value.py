@@ -7,7 +7,7 @@ class Solution(object):
         """
         d = set(nums1)
         dd = set(nums2)
-        l = list(d) + list(dd)
+
 
         # for i in l:
         #     if l.count(i) >= 2:
