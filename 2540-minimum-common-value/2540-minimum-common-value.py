@@ -5,14 +5,13 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: int
         """
-        d = set(nums1)
-        dd = set(nums2)
+    
 
 
         # for i in l:
         #     if l.count(i) >= 2:
         #         cc.append(i)
-        res = d & dd
+        res = set(nums1) & set(nums2)
         print(list(res))
         if len(res) == 0:
             return -1
