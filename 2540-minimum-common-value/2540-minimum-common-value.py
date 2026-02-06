@@ -12,7 +12,6 @@ class Solution(object):
         #     if l.count(i) >= 2:
         #         cc.append(i)
         res = set(nums1) & set(nums2)
-        print(list(res))
         if len(res) == 0:
             return -1
         return min(list(res))
