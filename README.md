@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Shadirvan1/leet-codes/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shadirvan1/leet-codes/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Shadirvan1/leet-codes/tree/master/2942-find-words-containing-character) |
+| [3668-restore-finishing-order](https://github.com/Shadirvan1/leet-codes/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shadirvan1/leet-codes/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shadirvan1/leet-codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2540-minimum-common-value](https://github.com/Shadirvan1/leet-codes/tree/master/2540-minimum-common-value) |
+| [3668-restore-finishing-order](https://github.com/Shadirvan1/leet-codes/tree/master/3668-restore-finishing-order) |
 ## Binary Search
 |  |
 | ------- |
