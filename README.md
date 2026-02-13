@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Shadirvan1/leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shadirvan1/leet-codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shadirvan1/leet-codes/tree/master/0989-add-to-array-form-of-integer) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shadirvan1/leet-codes/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Shadirvan1/leet-codes/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shadirvan1/leet-codes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/Shadirvan1/leet-codes/tree/master/1929-concatenation-of-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shadirvan1/leet-codes/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shadirvan1/leet-codes/tree/master/0389-find-the-difference) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Shadirvan1/leet-codes/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shadirvan1/leet-codes/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Shadirvan1/leet-codes/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shadirvan1/leet-codes/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shadirvan1/leet-codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shadirvan1/leet-codes/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shadirvan1/leet-codes/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/Shadirvan1/leet-codes/tree/master/2540-minimum-common-value) |
 | [3668-restore-finishing-order](https://github.com/Shadirvan1/leet-codes/tree/master/3668-restore-finishing-order) |
