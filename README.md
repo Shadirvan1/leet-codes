@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Shadirvan1/leet-codes/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Shadirvan1/leet-codes/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Shadirvan1/leet-codes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Shadirvan1/leet-codes/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/0387-first-unique-character-in-a-string) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shadirvan1/leet-codes/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Shadirvan1/leet-codes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Shadirvan1/leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shadirvan1/leet-codes/tree/master/0344-reverse-string) |
