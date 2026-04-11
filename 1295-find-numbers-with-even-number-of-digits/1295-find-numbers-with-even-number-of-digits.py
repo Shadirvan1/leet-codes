@@ -6,7 +6,6 @@ class Solution(object):
         """
         c = 0
         for i, value in enumerate(nums):
-            st = str(value)
-            if len(st)%2==0:
+            if len(str(value))%2==0:
                 c += 1
         return c
