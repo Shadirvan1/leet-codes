@@ -1,15 +1,19 @@
 class Solution(object):
     def isPalindrome(self, s):
-        s=s.lower()
-       
-        d =[x for x in s if x.isalpha() or x.isdigit()]
-  
-        dd = d[::-1]
- 
-        if d == dd:
-            return True
-        else:
-            return False
+        left , right = 0 , len(s)-1
+        
+        while left < right:
+            while left < right and not s[left].isalnum():
+                left += 1
+            while left < right and not s[right].isalnum():
+                right -= 1
+
+            if s[left].lower() != s[right].lower():
+                return False
+            left += 1
+            right -= 1
+        return True
+
         """
         :type s: str
         :rtype: bool
