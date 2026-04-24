@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shadirvan1/leet-codes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Shadirvan1/leet-codes/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shadirvan1/leet-codes/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2833-furthest-point-from-origin](https://github.com/Shadirvan1/leet-codes/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/Shadirvan1/leet-codes/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shadirvan1/leet-codes/tree/master/0884-uncommon-words-from-two-sentences) |
+| [2833-furthest-point-from-origin](https://github.com/Shadirvan1/leet-codes/tree/master/2833-furthest-point-from-origin) |
 ## Queue
 |  |
 | ------- |
