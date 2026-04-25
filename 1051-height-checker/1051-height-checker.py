@@ -1,12 +1,10 @@
 class Solution(object):
     def heightChecker(self, heights):
-        s = 0
         d = sorted(heights)
-        print(d)
+        s = 0
         if d == heights:
             return 0
         for i in range(len(heights)):
-            print(i)
             if d[i] != heights[i]:
                 s += 1
             else:
