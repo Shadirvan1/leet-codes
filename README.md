@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shadirvan1/leet-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shadirvan1/leet-codes/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shadirvan1/leet-codes/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Shadirvan1/leet-codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shadirvan1/leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Shadirvan1/leet-codes/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shadirvan1/leet-codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shadirvan1/leet-codes/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shadirvan1/leet-codes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/Shadirvan1/leet-codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shadirvan1/leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shadirvan1/leet-codes/tree/master/0344-reverse-string) |
 | [0917-reverse-only-letters](https://github.com/Shadirvan1/leet-codes/tree/master/0917-reverse-only-letters) |
