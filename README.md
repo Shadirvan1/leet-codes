@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shadirvan1/leet-codes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shadirvan1/leet-codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shadirvan1/leet-codes/tree/master/0287-find-the-duplicate-number) |
+| [0396-rotate-function](https://github.com/Shadirvan1/leet-codes/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Shadirvan1/leet-codes/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Shadirvan1/leet-codes/tree/master/0704-binary-search) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shadirvan1/leet-codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Shadirvan1/leet-codes/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shadirvan1/leet-codes/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Shadirvan1/leet-codes/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/Shadirvan1/leet-codes/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Shadirvan1/leet-codes/tree/master/0412-fizz-buzz) |
 | [0989-add-to-array-form-of-integer](https://github.com/Shadirvan1/leet-codes/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shadirvan1/leet-codes/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Shadirvan1/leet-codes/tree/master/0396-rotate-function) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Shadirvan1/leet-codes/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Bit Manipulation
 |  |
