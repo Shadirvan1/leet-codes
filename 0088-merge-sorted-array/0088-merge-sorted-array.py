@@ -4,7 +4,6 @@ class Solution(object):
         nums1.extend(nums2[:n])
         nums1.sort()
         
-        
        
                 
         """
