@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shadirvan1/leet-codes/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2833-furthest-point-from-origin](https://github.com/Shadirvan1/leet-codes/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/Shadirvan1/leet-codes/tree/master/2942-find-words-containing-character) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Shadirvan1/leet-codes/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shadirvan1/leet-codes/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/Shadirvan1/leet-codes/tree/master/2540-minimum-common-value) |
 | [3668-restore-finishing-order](https://github.com/Shadirvan1/leet-codes/tree/master/3668-restore-finishing-order) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Shadirvan1/leet-codes/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Binary Search
 |  |
 | ------- |
