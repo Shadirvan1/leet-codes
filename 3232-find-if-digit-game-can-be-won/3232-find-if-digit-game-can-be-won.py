@@ -12,7 +12,7 @@ class Solution(object):
                 s += i
             else:
                 d += i
-        if s > d or d > s:
+        if s != d:
             return True
         else:
             return False
