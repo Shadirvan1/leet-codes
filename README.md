@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/Shadirvan1/leet-codes/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Shadirvan1/leet-codes/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/Shadirvan1/leet-codes/tree/master/2942-find-words-containing-character) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Shadirvan1/leet-codes/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3668-restore-finishing-order](https://github.com/Shadirvan1/leet-codes/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/Shadirvan1/leet-codes/tree/master/2119-a-number-after-a-double-reversal) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shadirvan1/leet-codes/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/Shadirvan1/leet-codes/tree/master/3099-harshad-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Shadirvan1/leet-codes/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shadirvan1/leet-codes/tree/master/3783-mirror-distance-of-an-integer) |
 ## Hash Table
 |  |
