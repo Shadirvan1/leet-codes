@@ -5,9 +5,7 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        s = "".join(sorted(s))
-        t = "".join(sorted(t))
-        if t == s:
+        if "".join(sorted(t)) == "".join(sorted(s)):
             return True
         else:
             return False
