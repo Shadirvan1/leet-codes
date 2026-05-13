@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Shadirvan1/leet-codes/tree/master/0917-reverse-only-letters) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Shadirvan1/leet-codes/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shadirvan1/leet-codes/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shadirvan1/leet-codes/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shadirvan1/leet-codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Shadirvan1/leet-codes/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Shadirvan1/leet-codes/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shadirvan1/leet-codes/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Shadirvan1/leet-codes/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Shadirvan1/leet-codes/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shadirvan1/leet-codes/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shadirvan1/leet-codes/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2540-minimum-common-value](https://github.com/Shadirvan1/leet-codes/tree/master/2540-minimum-common-value) |
 | [3668-restore-finishing-order](https://github.com/Shadirvan1/leet-codes/tree/master/3668-restore-finishing-order) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Shadirvan1/leet-codes/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shadirvan1/leet-codes/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2833-furthest-point-from-origin](https://github.com/Shadirvan1/leet-codes/tree/master/2833-furthest-point-from-origin) |
 ## Queue
 |  |
