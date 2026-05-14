@@ -9,11 +9,11 @@ class Solution(object):
             return word
         d =[]
         dd = ""
-        for v,i in enumerate(word):
-            if i != ch:
-                d.insert(0,i)
+        for i,v in enumerate(word):
+            if v != ch:
+                d.insert(0,v)
             else:
-                dd = word[v+1:]
+                dd = word[i+1:]
                 break
         d.insert(0,ch)
         s = "".join(d)
