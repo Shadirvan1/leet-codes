@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shadirvan1/leet-codes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shadirvan1/leet-codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shadirvan1/leet-codes/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shadirvan1/leet-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Shadirvan1/leet-codes/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Shadirvan1/leet-codes/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Shadirvan1/leet-codes/tree/master/0704-binary-search) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Shadirvan1/leet-codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shadirvan1/leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shadirvan1/leet-codes/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Shadirvan1/leet-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0917-reverse-only-letters](https://github.com/Shadirvan1/leet-codes/tree/master/0917-reverse-only-letters) |
 | [2000-reverse-prefix-of-word](https://github.com/Shadirvan1/leet-codes/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Shadirvan1/leet-codes/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shadirvan1/leet-codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shadirvan1/leet-codes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shadirvan1/leet-codes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shadirvan1/leet-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Shadirvan1/leet-codes/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shadirvan1/leet-codes/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/Shadirvan1/leet-codes/tree/master/1051-height-checker) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shadirvan1/leet-codes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shadirvan1/leet-codes/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Shadirvan1/leet-codes/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Shadirvan1/leet-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Shadirvan1/leet-codes/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/Shadirvan1/leet-codes/tree/master/0771-jewels-and-stones) |
@@ -140,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Shadirvan1/leet-codes/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Shadirvan1/leet-codes/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Shadirvan1/leet-codes/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Shadirvan1/leet-codes/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shadirvan1/leet-codes/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Shadirvan1/leet-codes/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/Shadirvan1/leet-codes/tree/master/2540-minimum-common-value) |
