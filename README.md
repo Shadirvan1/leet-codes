@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Shadirvan1/leet-codes/tree/master/2833-furthest-point-from-origin) |
 | [2942-find-words-containing-character](https://github.com/Shadirvan1/leet-codes/tree/master/2942-find-words-containing-character) |
+| [3340-check-balanced-string](https://github.com/Shadirvan1/leet-codes/tree/master/3340-check-balanced-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Shadirvan1/leet-codes/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
 |  |
