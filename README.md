@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shadirvan1/leet-codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Shadirvan1/leet-codes/tree/master/2119-a-number-after-a-double-reversal) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shadirvan1/leet-codes/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shadirvan1/leet-codes/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/Shadirvan1/leet-codes/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shadirvan1/leet-codes/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Shadirvan1/leet-codes/tree/master/3783-mirror-distance-of-an-integer) |
