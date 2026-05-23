@@ -5,11 +5,8 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        c = 0
+        s = 0
         for i in hours:
             if i >= target:
-                c += 1
-            else:
-                pass
-        return c
-        
+                s += 1
+        return s
