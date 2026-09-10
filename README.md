@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shadirvan1/leet-codes/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shadirvan1/leet-codes/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shadirvan1/leet-codes/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/Shadirvan1/leet-codes/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Shadirvan1/leet-codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Shadirvan1/leet-codes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shadirvan1/leet-codes/tree/master/0344-reverse-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Shadirvan1/leet-codes/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Shadirvan1/leet-codes/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/Shadirvan1/leet-codes/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Shadirvan1/leet-codes/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Shadirvan1/leet-codes/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Shadirvan1/leet-codes/tree/master/0371-sum-of-two-integers) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Shadirvan1/leet-codes/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shadirvan1/leet-codes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shadirvan1/leet-codes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shadirvan1/leet-codes/tree/master/0268-missing-number) |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/Shadirvan1/leet-codes/tree/master/2000-reverse-prefix-of-word) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Shadirvan1/leet-codes/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
